@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044324752875",
+    "project_id": "macaisse-69e45",
+    "storage_bucket": "macaisse-69e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044324752875:android:42a53df7e9d70ff977cdae",
+        "android_client_info": {
+          "package_name": "com.example.macaisse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDio7rJCG25KJ3vS9DbPqGzImlMCX_DLNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
